@@ -62,7 +62,7 @@
 
 ## Action items
 
-- [@Tem List ongoing issues]
+- [@team Write list of ongoing issues & assign priorities]
 - [@quickbrownfox Assign person for writing documetation topic]
 - [Documnent on how to write a SC guide]
 - [@Firmware Write contribute MD]
