@@ -4,7 +4,7 @@
 
 - **Date:** January 26, 2026
 - **Time:** 14:00 EST
-- **Location:** [Online Element]
+- **Location:** [Online Matrix]
 - **Attendees:** [MoralPriest, Azylem, quickbrownfox, memetactician, CaptainFirmware]
 
 ## Agenda (120 minutes)
