@@ -1,4 +1,4 @@
-# DeroDev Talk Meeting - January 26, 2026
+# DeroDev Talk Meeting - January 12, 2026
 
 ## Meeting Details
 
